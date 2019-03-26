@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Test_TP4" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQVAQAQAAAAQAYAAQAAAAAAAAEAQIAAAEAAAAAAAI=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\Test_TP4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransformIterator" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAgAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\TransformContainer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransformIterator_const" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\TransformContainer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbsAudioFile" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIAGQUgAEAAgAAAAAAARAAAAQAAAgAAHBIAEAAE=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\AbsAudioFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbsTransform" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAACAAAAAAAAABAgAAAQQAAEAAAAAAAAEAAAAAI=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\AbsTransform.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioFile" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIACAQAAAAAAAAAAAAAQAAAIAAEAgAABAIAAQAE=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\AudioFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chunk" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEQAAAAAAAAAAIAAQQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\Chunk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chunk_iterator_base" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIACAAACAQAAAAIAAwQAAAAAAAAAAAEAAAAAAAAg=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\ChunkIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chunk_const_iterator" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAAwAAAAEAAAQAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\ChunkIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chunk_iterator" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAAwAAAIEAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\ChunkIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositeTransform" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAKAAAAAAAAABAAABAQAAAEEAAAAAAAEAAAAAI=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\CompositeTransform.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvertTransform" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\InvertTransform.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemAudioFile" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIACAQAAAAAAAAAIgAgSAAAEAAAAgAABAIAAAIE=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\MemAudioFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RepeatTransform" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAIAAAAkAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\RepeatTransform.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ResultatTest" Collapsed="true">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4-H19-CodeDepart\ResultatTest.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

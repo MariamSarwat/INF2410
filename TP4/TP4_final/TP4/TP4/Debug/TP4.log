@@ -1,0 +1,19 @@
+﻿  AbsTransform.cpp
+  AudioFile.cpp
+c:\users\admin\desktop\mariam\year 2 - semester 1\inf2410\tp4\tp4_final\tp4\tp4\audiofile.cpp(34): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+c:\users\admin\desktop\mariam\year 2 - semester 1\inf2410\tp4\tp4_final\tp4\tp4\audiofile.cpp(85): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+c:\users\admin\desktop\mariam\year 2 - semester 1\inf2410\tp4\tp4_final\tp4\tp4\audiofile.cpp(92): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+  Chunk.cpp
+  ChunkIterator.cpp
+  CompositeTransform.cpp
+  InvertTransform.cpp
+c:\users\admin\desktop\mariam\year 2 - semester 1\inf2410\tp4\tp4_final\tp4\tp4\inverttransform.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  MemAudioFile.cpp
+  RepeatTransform.cpp
+c:\users\admin\desktop\mariam\year 2 - semester 1\inf2410\tp4\tp4_final\tp4\tp4\repeattransform.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  Test_TP4.cpp
+c:\users\admin\desktop\mariam\year 2 - semester 1\inf2410\tp4\tp4_final\tp4\tp4\test_tp4.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\mariam\year 2 - semester 1\inf2410\tp4\tp4_final\tp4\tp4\test_tp4.cpp(58): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  TP4.vcxproj -> C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4_final\TP4\Debug\TP4.exe

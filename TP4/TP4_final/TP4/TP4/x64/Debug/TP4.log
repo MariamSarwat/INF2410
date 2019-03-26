@@ -1,0 +1,3 @@
+﻿  CompositeTransform.cpp
+c:\users\admin\desktop\mariam\year 2 - semester 1\inf2410\tp4\tp4_final\tp4\tp4\compositetransform.cpp(22): warning C4715: 'CompositeTransform::clone': not all control paths return a value
+  TP4.vcxproj -> C:\Users\ADMIN\Desktop\mariam\Year 2 - Semester 1\INF2410\TP4\TP4_final\TP4\x64\Debug\TP4.exe
