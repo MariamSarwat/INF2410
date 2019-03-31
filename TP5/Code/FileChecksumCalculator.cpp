@@ -22,8 +22,7 @@ void FileChecksumCalculator::visit(const AudioFile & f) {
 
 		//- Combiner le checksum, le hash du Chunk et l'index du Chunk avec combineHash
 		//- Conserver le resultat comme nouveau checksum
-		m_checkSum = combineHash(m_checkSum, hash, index);
-		index++;
+		m_checkSum = combineHash(m_checkSum, hash, index++);
 	}
 }
 
@@ -45,8 +44,7 @@ void FileChecksumCalculator::visit(const MemAudioFile & f)
 		
 		//- Combiner le checksum, le hash du Chunk et l'index du Chunk avec combineHash
 		//- Conserver le resultat comme nouveau checksum
-		m_checkSum = combineHash(m_checkSum, hash, index);
-		index++;
+		m_checkSum = combineHash(m_checkSum, hash, index++);
 		
 		//- Avancer dans buf
 		buf = it->get();
